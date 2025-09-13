@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Kankamın Sitesi</title>
+</head>
+<body style="display:flex;justify-content:center;align-items:center;height:100vh;font-family:sans-serif;background:#f0f0f0;">
+  <h1>Merhaba! Bu benim sitem 🌍</h1>
+</body>
+</html>
